@@ -45,3 +45,4 @@ const passwordInput = () => cy.get('input[name="password"]')
 const emailInput = () => cy.get('input[name="email"]')
 const termCheck = () => cy.get('input[name="terms"]')
 const submitBtn = () => cy.get('button[id="submitBtn"]')
+
