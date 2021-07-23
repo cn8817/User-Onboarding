@@ -15,3 +15,5 @@ function User ({ details }) {
 }
 
 export default User
+
+
